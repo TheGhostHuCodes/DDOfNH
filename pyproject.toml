@@ -10,6 +10,7 @@ geonamescache = "^1.1.0"
 jupyterlab = "^2"
 unidecode = "^1.1.1"
 pandas = "^1.0.3"
+pyarrow = "^0.17.0"
 
 [tool.poetry.dev-dependencies]
 black = "^19.10b0"
