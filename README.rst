@@ -2,6 +2,8 @@
 Discovering Disease Outbreaks from News Headlines
 #################################################
 
+|license|
+
 My workspace containing code listings from the Manning liveProject
 "`Discovering Disease Outbreaks from News Headlines
 <https://www.manning.com/liveproject/discovering-disease-outbreaks-from-news-headlines>`_",
@@ -20,3 +22,5 @@ Note that ``@axlair/jupyterlab_vim`` is a custom build which is a temporary
 solution to getting vim bindings working in JupyterLab 2.X until `this
 <https://github.com/jwkvam/jupyterlab-vim/pull/115#issuecomment-596098108>`_ PR
 is merged.
+
+.. |license| image:: https://img.shields.io/github/license/TheGhostHuCodes/DDOfNH
